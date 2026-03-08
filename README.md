@@ -157,14 +157,6 @@ Full results are available in the notebook.
 
 ---
 
-## 👤 Author
-
-**Michael Ahereza**  
-📧 mahereza8@gmail.com  
-🐙 [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
